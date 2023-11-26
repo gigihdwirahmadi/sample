@@ -20,9 +20,10 @@ body{
 }
 .sub_nav a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 nav{
     padding: 0.9rem;
-    background-color: aqua;
+    background-color: #6a624d;
+    /* background-color: #e4e0d7; */
 }
