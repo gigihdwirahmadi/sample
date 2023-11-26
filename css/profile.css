@@ -1,0 +1,46 @@
+.avatar{
+    margin-top: 1rem;
+    height: 8rem;
+    width: 8rem;
+    background-color: black;
+    border-radius: 50%;
+}
+.container_sub{
+    display: grid;
+    grid-template-columns: 5fr 5fr 4fr;
+}
+.avatar_parrent{
+    margin-top: 2rem;
+}
+.todo_parrent{
+    margin-top: 20px;
+    background-color: #e4e0d7;
+    height: 20rem;
+    padding: 20px;
+}
+.avatar_parrent{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.separator_todo{
+    margin-top: 10px;
+}
+.list_todo{
+    padding: 5px 10px;
+    border: 1px solid black;
+    margin: 5px 0 ;
+    border-radius: 5px;
+}
+.profile_data_parrent{
+    margin-top: 2rem;
+}
+.student_data .header{
+    font-weight: bold;
+}
+.student_data{
+    margin: 10px 0;;
+}
+.button_Rdit_Profile{
+    margin: 20px 0;
+}
